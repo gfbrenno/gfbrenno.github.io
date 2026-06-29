@@ -33,7 +33,7 @@ PASTAS = {
     "Vivo":  r"C:\Users\brenno.fonseca\Documents\Encora\VIVO",
 }
 
-OUTPUT_HTML = os.path.join(os.path.dirname(os.path.abspath(__file__)), "dashboard_final.html")
+OUTPUT_HTML = os.path.join(os.path.dirname(os.path.abspath(__file__)), "index.html")
 
 ANO_MIN = 2020
 ANO_MAX = 2030
